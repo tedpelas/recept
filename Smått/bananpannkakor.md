@@ -3,8 +3,8 @@ Bananpannkakor
 
 **2 personer**
 
--	2 smått övermogna bananer
--	4 ägg
+- 2 smått övermogna bananer
+- 4 ägg
 - Salt
 - Ev kryddor (kanel, kardemumma, vaniljpulver)
 
