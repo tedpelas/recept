@@ -1,7 +1,8 @@
 Bananpannkakor
 =============
+![Snabbt o enkelt att göra!](http://www.allas.se/wp-content/uploads/2015/11/Bananpannkaka.jpg)
 
-**2 personer**
+**2 personer** | Tid: 15 min
 
 - 2 smått övermogna bananer
 - 4 ägg
